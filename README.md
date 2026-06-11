@@ -24,13 +24,13 @@ La idea del proyecto es ofrecer una herramienta con una **interfaz amigable para
 Primero clona este repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+git clone https://github.com/Noelhsa/downloanderes
 ```
 
 Entra a la carpeta del proyecto:
 
 ```bash
-cd TU-REPOSITORIO
+cd D:\downloanderes
 ```
 
 Crea un entorno virtual:
